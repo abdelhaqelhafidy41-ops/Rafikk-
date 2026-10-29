@@ -1,0 +1,6 @@
+{
+  "name": "رفيق المسلم",
+  "description": "تطبيق إسلامي شامل للقرآن الكريم ومواقيت الصلاة والأذكار والتذكيرات المخصصة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
